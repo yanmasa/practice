@@ -1,0 +1,31 @@
+.header-top {
+  height: 50px;
+  width: 100%;
+  background-color: red;
+}
+.header-main {
+  height: 500px;
+  width: 100%;
+  background-color: brown;
+}
+main {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.left-sidebar,
+.right-sidebar {
+  height: 1400px;
+  width: 230px;
+  background-color: limegreen;
+}
+.main-content {
+  height: 1400px;
+  width: 500px;
+  background-color: green;
+}
+.footer-bottom {
+  height: 100px;
+  width: 100%;
+  background-color: blue;
+}
